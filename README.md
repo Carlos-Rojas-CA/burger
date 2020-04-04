@@ -11,4 +11,4 @@ First: The app is overall working. I would still want to tweak the CSS code. I w
 
 
 
-![alt text](./public/assets/img/example.png)
+![alt text](./public/assets/img/example.PNG)
